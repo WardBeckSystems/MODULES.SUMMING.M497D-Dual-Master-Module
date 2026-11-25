@@ -1,0 +1,270 @@
+{
+ "code": "M497D",
+ "connector": "RTO-144",
+ "type": "M497D - Dual Master Module",
+ "series": null,
+ "contacts": "21 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "LEFT SUM IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "RIGHT SUM IN",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "LEFT LINE IN",
+   "kind": "in",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "RIGHT LINE IN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "OUT LEFT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "VU OUT LEFT",
+   "kind": "out",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "OUT RIGHT",
+   "kind": "out",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "VU OUT RIGHT",
+   "kind": "out",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "LEFT SUM IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "B",
+   "signal": "RIGHT SUM IN",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "D",
+   "signal": "LEFT LINE IN",
+   "kind": "in",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "RIGHT LINE IN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "OUT LEFT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "R",
+   "signal": "VU OUT LEFT",
+   "kind": "out",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "S",
+   "signal": "OUT RIGHT",
+   "kind": "out",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "VU OUT RIGHT",
+   "kind": "out",
+   "pair": "B4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M497D/M497D.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "Insert LEFT +",
+   "designation": "JMP.8.6",
+   "from": "P2-8",
+   "to": "P2-6"
+  },
+  {
+   "function": "Insert LEFT -",
+   "designation": "JMP.F.J",
+   "from": "P2-J",
+   "to": "P2-F"
+  },
+  {
+   "function": "Insert Right +",
+   "designation": "JMP.7.9",
+   "from": "P2-7",
+   "to": "P2-9"
+  },
+  {
+   "function": "Insert Right -",
+   "designation": "JMP.H.K",
+   "from": "P2-H",
+   "to": "P2-K"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M497D/M497D.rto144.json"
+ ]
+}
