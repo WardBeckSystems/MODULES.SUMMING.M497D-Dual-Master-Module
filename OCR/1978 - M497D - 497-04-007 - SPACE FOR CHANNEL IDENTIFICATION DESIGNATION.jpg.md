@@ -19,7 +19,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Words (OCR):** 40 in 22 lines: WBS · M4970 · RIGHT CHANNEL level controi R44: · Determinos output level · Right Channel outouts_ · Space Tor · designation_ · channel   identification · LEFT CHANNEL level · control R42: · Determines output level · Left Channel outputs_
 - **Title block:** (140, 43)–(316, 321) mm: WBS · M4970 · RIGHT CHANNEL level controi R44: · Determinos output level · Right Channel outouts_ · LEFT CHANNEL level · control R42: · Determines output level · Left Channel outputs_ · WES WARD-BECK 
 
-Every curve, box, word and wire group: [1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION (traced).json](../MECHANICAL/1978%20-%20M497D%20-%20497-04-007%20-%20SPACE%20FOR%20CHANNEL%20IDENTIFICATION%20DESIGNATION%20(traced).json) (the CAD file: `1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION (traced).json](../MECHANICAL/1978%20-%20M497D%20-%20497-04-007%20-%20SPACE%20FOR%20CHANNEL%20IDENTIFICATION%20DESIGNATION%20%28traced%29.json) (the CAD file: `1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION (traced).dxf`).
 
 ## Full text
 

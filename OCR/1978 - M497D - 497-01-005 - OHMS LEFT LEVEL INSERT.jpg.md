@@ -21,7 +21,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Words (OCR):** 18 in 17 lines: LeFT · LEVEL · SUMMING INPUT · INSERT · PRE · 8-1O9E · EXTERNAL INPUT · dBm 600 OHMS · RIGHT · LEVEL · SUMMING INPUT · INSERT
 - **Wiring (first pass):** 73 connected wire groups from 99 runs; labelled ends: 54 mm → LEVEL; 38 mm → 600 OHMS; 38 mm → 600 OHMS; 35 mm → 8-1O9E, LEVEL; 28 mm → INSERT
 
-Every curve, box, word and wire group: [1978 - M497D - 497-01-005 - OHMS LEFT LEVEL INSERT (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20497-01-005%20-%20OHMS%20LEFT%20LEVEL%20INSERT%20(traced).json) (the CAD file: `1978 - M497D - 497-01-005 - OHMS LEFT LEVEL INSERT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 497-01-005 - OHMS LEFT LEVEL INSERT (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20497-01-005%20-%20OHMS%20LEFT%20LEVEL%20INSERT%20%28traced%29.json) (the CAD file: `1978 - M497D - 497-01-005 - OHMS LEFT LEVEL INSERT (traced).dxf`).
 
 ## Full text
 

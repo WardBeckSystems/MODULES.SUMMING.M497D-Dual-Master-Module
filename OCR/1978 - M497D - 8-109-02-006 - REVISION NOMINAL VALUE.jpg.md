@@ -23,7 +23,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Title block:** (228, 1)–(336, 61) mm: ISSUIDATE · REVISION · WBS · WARD-BECK SYSTEMS · DRN: GEB · 8 ~ I09E · ENG MRW · 4/78 · BOOSTER AMPLIFIER · CKD. · SCHEMATIC · APP · SCALE · 8-109-02-006
 - **Wiring (first pass):** 38 connected wire groups from 176 runs; labelled ends: 208 mm → 2N4037, 4k7, E7; 206 mm → E3, Zn2i02; 149 mm → R37, 4K7, 16, 22o/10; 148 mm → 220/10, E4, R3c; 133 mm → HF, L8p, CRi, IN414B
 
-Every curve, box, word and wire group: [1978 - M497D - 8-109-02-006 - REVISION NOMINAL VALUE (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%208-109-02-006%20-%20REVISION%20NOMINAL%20VALUE%20(traced).json) (the CAD file: `1978 - M497D - 8-109-02-006 - REVISION NOMINAL VALUE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 8-109-02-006 - REVISION NOMINAL VALUE (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%208-109-02-006%20-%20REVISION%20NOMINAL%20VALUE%20%28traced%29.json) (the CAD file: `1978 - M497D - 8-109-02-006 - REVISION NOMINAL VALUE (traced).dxf`).
 
 ## Full text
 

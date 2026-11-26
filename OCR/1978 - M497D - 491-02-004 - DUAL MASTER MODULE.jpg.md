@@ -22,7 +22,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Words (OCR):** 63 in 54 lines: NoTES · ALL RESiSToRS W,5 % AND · ALC · CAPACiTORS IN _F DMLESS · Otherwise SpeciFied. · 2,LAST COMPCNENT DESIGNATION · 224,(R4,06,R19 2Z6_ · 3. USE · PcB 7-/13 · 2iv · Sert · IBn
 - **Wiring (first pass):** 77 connected wire groups from 311 runs; labelled ends: 259 mm → IssuDte, WBS; 244 mm → WBS; 47 mm → 2E2; 34 mm → 235, 3k, Iei; 34 mm → IEZ, 2k
 
-Every curve, box, word and wire group: [1978 - M497D - 491-02-004 - DUAL MASTER MODULE (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20491-02-004%20-%20DUAL%20MASTER%20MODULE%20(traced).json) (the CAD file: `1978 - M497D - 491-02-004 - DUAL MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 491-02-004 - DUAL MASTER MODULE (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20491-02-004%20-%20DUAL%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M497D - 491-02-004 - DUAL MASTER MODULE (traced).dxf`).
 
 ## Full text
 

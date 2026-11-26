@@ -21,7 +21,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Words (OCR):** 78 in 71 lines: RB J5 · ~C4 · 330/6 Cz9 ZuLsV · R7s LeK · Rii JsK · (62 · ~cM-047 · R22 620 R28 <29 · Clo+ · Rig · 44 · 45
 - **Title block:** (80, 0)–(334, 145) mm: WBS · CANADA · 7-113 · Pn3s9 · Pnjst9 · ai · ISSU IDATE · REVISION · WBS · WARD-BECK BYBTEMB · DRN: · TR · M497B · MRW · ENG_ · DUAL MASTER · MODULE · LAYOUT · COMPONENT · App · SCALE · ISSUE · 497-06
 
-Every curve, box, word and wire group: [1978 - M497D - 497-06-005 - DUAL MASTER MODULE (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20497-06-005%20-%20DUAL%20MASTER%20MODULE%20(traced).json) (the CAD file: `1978 - M497D - 497-06-005 - DUAL MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 497-06-005 - DUAL MASTER MODULE (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20497-06-005%20-%20DUAL%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M497D - 497-06-005 - DUAL MASTER MODULE (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Words (OCR):** 46 in 41 lines: E2 · 23/6 · 47k · Lkz · LRA · ~RG Lk? · ~R7JBK · z2 · LF356 · ~ciof p · -Ciis7p · ~RIl Jek
 - **Title block:** (120, 9)–(336, 111) mm: 400 · ML · ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · 8 = 109E · ENG.MRW 4/78 · BOOSTER · AMPLIFIER · CKD. · COMPONENT · LAYOUT · APP · SCALE · ISSUE · 8-109-06-006
 
-Every curve, box, word and wire group: [1978 - M497D - 8-109-06-006 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%208-109-06-006%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1978 - M497D - 8-109-06-006 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 8-109-06-006 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%208-109-06-006%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1978 - M497D - 8-109-06-006 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

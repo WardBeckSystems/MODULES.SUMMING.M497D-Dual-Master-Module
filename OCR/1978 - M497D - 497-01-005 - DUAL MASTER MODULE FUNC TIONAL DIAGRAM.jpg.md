@@ -22,7 +22,7 @@ Wiki page: [M497D](../../../../PAGES/M497D.md)
 - **Title block:** (202, 44)–(326, 69) mm: WBS · WARD-BECK SYSTEMS · M497D
 - **Wiring (first pass):** 55 connected wire groups from 108 runs; labelled ends: 181 mm → 8-109E; 44 mm → PROGRAM OUTPUTS; 30 mm → 8 _109E; 30 mm → PROGRAM OUTPUTS, LEFT; 24 mm → PROGRAM OUTPUTS
 
-Every curve, box, word and wire group: [1978 - M497D - 497-01-005 - DUAL MASTER MODULE FUNC TIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20497-01-005%20-%20DUAL%20MASTER%20MODULE%20FUNC%20TIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1978 - M497D - 497-01-005 - DUAL MASTER MODULE FUNC TIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M497D - 497-01-005 - DUAL MASTER MODULE FUNC TIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M497D%20-%20497-01-005%20-%20DUAL%20MASTER%20MODULE%20FUNC%20TIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1978 - M497D - 497-01-005 - DUAL MASTER MODULE FUNC TIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 
