@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/30864b06a22025fd-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 313.5, 410.2],
+ "outlines": {
+  "line": {"rings": 163, "straight": {"n": 1718, "mm": 4896.5}, "curved": {"n": 311, "mm": 494.0}},
+  "text": {"rings": 122, "straight": {"n": 1020, "mm": 1479.8}, "curved": {"n": 260, "mm": 430.2}}
+ },
+ "circles": [
+  {"c": [196.1, 231.4], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [259.2, 397.6], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [277.8, 403.1, 282.2, 406.8], "w": 4.4, "h": 3.7, "from": "ring"},
+  {"mm": [140.8, 391.0, 144.0, 394.2], "w": 3.2, "h": 3.2, "from": "ring", "words": ["IS/..."]}
+ ],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [44.7, 390.3, 269.4, 407.9], "text": "[VVElS] 841 PFlOGRESB .VENUE. SCAROOf'OUGH ONTARIO Ml"},
+   {"mm": [121.1, 400.7, 192.6, 407.9], "text": "WARD -BE CK"},
+   {"mm": [207.9, 400.7, 274.4, 407.9], "text": "YS TE MS LT"},
+   {"mm": [255.4, 388.4, 289.3, 396.8], "text": "\"'.38-8eell"},
+   {"mm": [120.9, 389.5, 131.9, 393.1], "text": "FAX."},
+   {"mm": [139.7, 389.5, 171.0, 393.3], "text": "IS/... :lI8-3EI8e"},
+   {"mm": [228.2, 389.5, 248.3, 393.1], "text": "PHONE;"},
+   {"mm": [169.3, 242.9, 182.7, 250.1], "text": "970"},
+   {"mm": [119.6, 227.1, 221.3, 234.3], "text": "DUA MASTER MO DULE"},
+   {"mm": [220.4, 69.5, 239.0, 75.3], "text": "MAN!!"},
+   {"mm": [252.4, 65.6, 302.5, 75.3], "text": "Issm ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [220.2, 57.0, 260.2, 62.3], "text": "Ap rl/19.J9'J1"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–410 mm up",
+  "- **Outlines:** line 163 rings, 1,718 straight (4,896 mm) / 311 curved (494 mm); text 122 rings, 1,020 straight (1,480 mm) / 260 curved (430 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 3.3 @ (196.1, 231.4), r 2.0 @ (259.2, 397.6)",
+  "- **Closed boxes:** 2; named: IS/...",
+  "- **Words (OCR):** 32 in 15 lines: [VVElS] 841 PFlOGRESB .VENUE. SCAROOf'OUGH ONTARIO Ml · WARD -BE CK · YS TE MS LT · \"'.38-8eell · FAX. · IS/... :lI8-3EI8e · PHONE; · 970 · DUA MASTER MO DULE · MAN!! · Issm ps · BS"
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf",
+ "page": 6,
+ "version": 1,
+ "trace": "_traces/30864b06a22025fd-p6.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "6", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 13.4, 312.6, 424.5],
+ "outlines": {
+  "line": {"rings": 475, "straight": {"n": 4255, "mm": 7600.7}, "curved": {"n": 1101, "mm": 1712.1}},
+  "text": {"rings": 481, "straight": {"n": 3706, "mm": 4204.4}, "curved": {"n": 1233, "mm": 1960.7}}
+ },
+ "circles": [
+  {"c": [121.3, 99.9], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [121.3, 106.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [216.6, 31.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [140.1, 405.0, 143.4, 408.1], "w": 3.2, "h": 3.0, "from": "ring"}],
+ "text": {
+  "words": 37,
+  "lines": [
+   {"mm": [32.0, 404.8, 125.7, 411.3], "text": "WAHD AFCK SYETGVS"},
+   {"mm": [151.3, 376.1, 191.1, 382.6], "text": "EARTS LST"},
+   {"mm": [121.1, 365.1, 221.5, 371.6], "text": "Jusun DAI YASTFR HODE"},
+   {"mm": [76.4, 347.6, 121.1, 352.4], "text": "FrAKMOR"},
+   {"mm": [240.5, 345.9, 301.0, 352.3], "text": "JFG EAk LNUJIEI"},
+   {"mm": [76.4, 334.9, 105.1, 339.7], "text": "Curueunt"},
+   {"mm": [203.8, 333.1, 223.0, 339.6], "text": "Kemel"},
+   {"mm": [242.2, 333.1, 291.7, 339.6], "text": "TICOF}}-MOCG45"},
+   {"mm": [203.8, 309.4, 224.5, 314.2], "text": "Meiuna"},
+   {"mm": [240.5, 309.4, 285.2, 315.9], "text": "3n l6 710419"},
+   {"mm": [240.5, 290.2, 283.5, 296.6], "text": "3x61-Jqio"},
+   {"mm": [240.5, 277.4, 283.5, 283.9], "text": "2201 [0[JS"},
+   {"mm": [240.5, 259.9, 283.5, 266.4], "text": "1 6J4-Z0[5["},
+   {"mm": [240.5, 248.9, 283.5, 253.7], "text": "Fc6an-7J0lJo"},
+   {"mm": [116.4, 236.2, 137.1, 242.7], "text": "I00 pF"},
+   {"mm": [240.5, 236.2, 283.5, 242.7], "text": "1117-074-7maM"},
+   {"mm": [240.5, 217.2, 283.5, 223.7], "text": "221-0j8-|UIZ"},
+   {"mm": [240.5, 187.0, 293.2, 193.4], "text": "TJSODIESMOI 5"},
+   {"mm": [203.8, 187.0, 223.0, 191.8], "text": "hamer"},
+   {"mm": [203.8, 163.0, 223.0, 169.5], "text": "Pellps"},
+   {"mm": [240.5, 163.0, 269.2, 169.5], "text": "AZ6ETF -"},
+   {"mm": [203.8, 115.3, 223.0, 120.1], "text": "Aco"},
+   {"mm": [240.5, 115.3, 285.2, 120.1], "text": "Cout Mau"},
+   {"mm": [35.8, 77.9, 92.4, 93.8], "text": "SRI picdc"},
+   {"mm": [203.8, 85.1, 229.3, 89.9], "text": "Hln"},
+   {"mm": [240.5, 85.1, 261.2, 89.9], "text": "Haamm"},
+   {"mm": [256.5, 35.0, 308.3, 89.9], "text": "\"BSps ,"},
+   {"mm": [74.9, 54.8, 105.1, 61.3], "text": "Trani-lar"},
+   {"mm": [240.5, 53.3, 261.2, 59.8], "text": "MFISV"},
+   {"mm": [207.0, 48.6, 227.8, 53.4], "text": "Kninmi"},
+   {"mm": [240.5, 48.6, 261.2, 53.4], "text": "PNASc\""},
+   {"mm": [240.5, 29.4, 261.2, 35.8], "text": "PNanAE"}
+  ]
+ },
+ "dots": [{"c": [210.6, 143.1], "r": 1.0, "lines": 0}, {"c": [89.9, 119.8], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–313 mm across, 13–424 mm up",
+  "- **Outlines:** line 475 rings, 4,255 straight (7,601 mm) / 1,101 curved (1,712 mm); text 481 rings, 3,706 straight (4,204 mm) / 1,233 curved (1,961 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.4 @ (121.3, 99.9), r 2.3 @ (121.3, 106.1), r 1.7 @ (216.6, 31.5)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 37 in 32 lines: WAHD AFCK SYETGVS · EARTS LST · Jusun DAI YASTFR HODE · FrAKMOR · JFG EAk LNUJIEI · Curueunt · Kemel · TICOF}}-MOCG45 · Meiuna · 3n l6 710419 · 3x61-Jqio · 2201 [0[JS"
+ ]
+}

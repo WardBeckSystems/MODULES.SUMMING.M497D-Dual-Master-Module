@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module.pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/1c8690f95b8feb42-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 20.7, 306.6, 425.5],
+ "outlines": {
+  "line": {"rings": 26, "straight": {"n": 640, "mm": 2835.7}, "curved": {"n": 50, "mm": 80.0}},
+  "text": {"rings": 45, "straight": {"n": 462, "mm": 652.1}, "curved": {"n": 118, "mm": 183.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [30.4, 403.7, 146.6, 413.2], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [151.6, 232.7, 181.8, 239.7], "text": "SECTION"},
+   {"mm": [147.9, 220.2, 191.5, 227.9], "text": "MAIN FRAME"}
+  ]
+ },
+ "title_block": {"mm": [23.7, 395.1, 153.5, 421.8], "from": "title-block words (training set)", "text": ["WARD-BECK SYSTEMS LTD."]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–307 mm across, 21–426 mm up",
+  "- **Outlines:** line 26 rings, 640 straight (2,836 mm) / 50 curved (80.0 mm); text 45 rings, 462 straight (652 mm) / 118 curved (184 mm)",
+  "- **Words (OCR):** 4 in 3 lines: WARD-BECK SYSTEMS LTD. · SECTION · MAIN FRAME",
+  "- **Title block:** (24, 395)–(154, 422) mm: WARD-BECK SYSTEMS LTD."
+ ]
+}

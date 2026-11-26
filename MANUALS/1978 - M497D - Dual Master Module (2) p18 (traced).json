@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/30864b06a22025fd-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.3, 20.1, 328.8, 420.6],
+ "outlines": {
+  "line": {"rings": 80, "straight": {"n": 1224, "mm": 3419.8}, "curved": {"n": 170, "mm": 289.0}},
+  "text": {"rings": 16, "straight": {"n": 150, "mm": 215.8}, "curved": {"n": 29, "mm": 54.1}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [63.5, 415.8, 67.8, 420.4], "w": 4.3, "h": 4.6, "from": "ring"}],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [122.6, 229.7, 178.1, 234.8], "text": "8-109 AMPLI FI ER"},
+   {"mm": [182.2, 229.7, 204.5, 235.0], "text": "SERIES"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–329 mm across, 20–421 mm up",
+  "- **Outlines:** line 80 rings, 1,224 straight (3,420 mm) / 170 curved (289 mm); text 16 rings, 150 straight (216 mm) / 29 curved (54.1 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 9 in 6 lines: 8-109 AMPLI FI ER · SERIES · ps · BS · tp · ht"
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MECHANICAL/1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION.jpg",
+ "version": 1,
+ "trace": "_traces/3c61c0a8adbc24ca.svg",
+ "sheet": {
+  "number": "497-04-007",
+  "title": "Space For Channel Identification Designation",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.7, 15.5, 309.2, 424.7],
+ "outlines": {
+  "line": {"rings": 33, "straight": {"n": 429, "mm": 1240.0}, "curved": {"n": 43, "mm": 63.8}},
+  "text": {"rings": 342, "straight": {"n": 1950, "mm": 2101.1}, "curved": {"n": 723, "mm": 1052.3}},
+  "tb": {"rings": 190, "straight": {"n": 1429, "mm": 3223.9}, "curved": {"n": 213, "mm": 328.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [147.0, 306.8, 157.2, 312.1], "text": "WBS"},
+   {"mm": [168.0, 306.8, 183.5, 312.1], "text": "M4970"},
+   {"mm": [219.4, 264.3, 283.9, 268.6], "text": "RIGHT CHANNEL level controi R44:"},
+   {"mm": [218.9, 259.9, 264.0, 264.7], "text": "Determinos output level"},
+   {"mm": [218.7, 255.2, 261.2, 260.7], "text": "Right Channel outouts_"},
+   {"mm": [45.6, 235.5, 64.3, 239.9], "text": "Space Tor"},
+   {"mm": [45.6, 231.2, 66.5, 235.5], "text": "designation_"},
+   {"mm": [66.1, 235.1, 106.0, 239.4], "text": "channel   identification"},
+   {"mm": [218.7, 181.1, 256.5, 185.5], "text": "LEFT CHANNEL level"},
+   {"mm": [258.2, 181.1, 281.5, 185.5], "text": "control R42:"},
+   {"mm": [218.7, 176.4, 263.4, 181.2], "text": "Determines output level"},
+   {"mm": [218.7, 172.9, 258.6, 177.3], "text": "Left Channel outputs_"},
+   {"mm": [45.1, 152.4, 64.6, 156.7], "text": "Space for"},
+   {"mm": [65.6, 152.0, 105.6, 156.3], "text": "channel   identification"},
+   {"mm": [45.1, 148.1, 66.1, 152.4], "text": "designation_"},
+   {"mm": [199.9, 51.6, 273.5, 59.3], "text": "WES WARD-BECK"},
+   {"mm": [276.1, 51.8, 309.6, 58.8], "text": "SYSTEMS"},
+   {"mm": [242.7, 41.0, 262.1, 47.5], "text": "M497D"},
+   {"mm": [218.5, 32.8, 285.9, 39.3], "text": "DUAL MASTER MODULE"},
+   {"mm": [232.1, 24.8, 272.5, 31.3], "text": "FRONT PANEL"},
+   {"mm": [201.9, 14.7, 235.3, 21.2], "text": "497-04-007"},
+   {"mm": [290.2, 14.7, 303.1, 21.2], "text": "ISS."}
+  ]
+ },
+ "title_block": {
+  "mm": [140.3, 43.2, 316.4, 320.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "M4970",
+   "RIGHT CHANNEL level controi R44:",
+   "Determinos output level",
+   "Right Channel outouts_",
+   "LEFT CHANNEL level",
+   "control R42:",
+   "Determines output level",
+   "Left Channel outputs_",
+   "WES WARD-BECK",
+   "SYSTEMS",
+   "M497D"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 497-04-007, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–309 mm across, 16–425 mm up",
+  "- **Outlines:** line 33 rings, 429 straight (1,240 mm) / 43 curved (63.8 mm); text 342 rings, 1,950 straight (2,101 mm) / 723 curved (1,052 mm); tb 190 rings, 1,429 straight (3,224 mm) / 213 curved (329 mm)",
+  "- **Words (OCR):** 40 in 22 lines: WBS · M4970 · RIGHT CHANNEL level controi R44: · Determinos output level · Right Channel outouts_ · Space Tor · designation_ · channel   identification · LEFT CHANNEL level · control R42: · Determines output level · Left Channel outputs_",
+  "- **Title block:** (140, 43)–(316, 321) mm: WBS · M4970 · RIGHT CHANNEL level controi R44: · Determinos output level · Right Channel outouts_ · LEFT CHANNEL level · control R42: · Determines output level · Left Channel outputs_ · WES WARD-BECK "
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/30864b06a22025fd-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 20.7, 313.7, 425.5],
+ "outlines": {
+  "line": {"rings": 58, "straight": {"n": 953, "mm": 3387.8}, "curved": {"n": 128, "mm": 220.5}},
+  "text": {"rings": 15, "straight": {"n": 120, "mm": 177.6}, "curved": {"n": 40, "mm": 63.2}},
+  "tb": {"rings": 17, "straight": {"n": 215, "mm": 306.2}, "curved": {"n": 44, "mm": 72.1}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [140.1, 406.3, 143.4, 409.4], "w": 3.3, "h": 3.1, "from": "ring"}],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [30.2, 403.7, 141.6, 409.5], "text": "WAR D-BECK SYSTEMS TO"},
+   {"mm": [157.0, 232.5, 176.6, 238.0], "text": "ECT IO"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [42.5, 395.2, 130.8, 418.2], "from": "title-block words (training set)", "text": ["WAR D-BECK SYSTEMS TO"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 21–426 mm up",
+  "- **Outlines:** line 58 rings, 953 straight (3,388 mm) / 128 curved (220 mm); text 15 rings, 120 straight (178 mm) / 40 curved (63.2 mm); tb 17 rings, 215 straight (306 mm) / 44 curved (72.1 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 10 in 6 lines: WAR D-BECK SYSTEMS TO · ECT IO · ps · BS · tp · ht",
+  "- **Title block:** (42, 395)–(131, 418) mm: WAR D-BECK SYSTEMS TO"
+ ]
+}

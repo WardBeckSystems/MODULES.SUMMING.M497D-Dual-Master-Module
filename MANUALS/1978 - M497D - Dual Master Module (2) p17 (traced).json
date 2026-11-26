@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/30864b06a22025fd-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.7, 20.3, 313.7, 425.1],
+ "outlines": {
+  "line": {"rings": 62, "straight": {"n": 986, "mm": 3390.1}, "curved": {"n": 165, "mm": 263.2}},
+  "text": {"rings": 27, "straight": {"n": 276, "mm": 418.6}, "curved": {"n": 50, "mm": 84.8}}
+ },
+ "circles": [{"c": [169.6, 235.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [164.7, 233.2, 166.9, 237.7], "w": 2.2, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [35.0, 404.4, 140.1, 409.9], "text": "ARD -BECK SYSTE MS LTD"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–314 mm across, 20–425 mm up",
+  "- **Outlines:** line 62 rings, 986 straight (3,390 mm) / 165 curved (263 mm); text 27 rings, 276 straight (419 mm) / 50 curved (84.8 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.4 @ (169.6, 235.6)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 9 in 5 lines: ARD -BECK SYSTE MS LTD · ps · BS · tp · ht"
+ ]
+}

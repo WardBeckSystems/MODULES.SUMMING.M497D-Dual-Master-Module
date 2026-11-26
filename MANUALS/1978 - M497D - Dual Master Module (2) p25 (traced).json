@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module (2).pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/30864b06a22025fd-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 317.6, 422.5],
+ "outlines": {
+  "line": {"rings": 145, "straight": {"n": 1940, "mm": 4803.3}, "curved": {"n": 273, "mm": 443.2}},
+  "text": {"rings": 326, "straight": {"n": 2434, "mm": 2763.0}, "curved": {"n": 689, "mm": 1105.0}},
+  "tb": {"rings": 27, "straight": {"n": 188, "mm": 234.1}, "curved": {"n": 55, "mm": 92.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 68,
+  "lines": [
+   {"mm": [37.6, 408.5, 151.8, 413.8], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [157.8, 365.5, 195.0, 370.6], "text": "PARTS LIST"},
+   {"mm": [135.6, 352.6, 217.4, 357.6], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [52.9, 339.2, 73.2, 344.2], "text": "8-109G"},
+   {"mm": [52.9, 325.8, 154.4, 330.8], "text": "All parts as per 8-109 xcept"},
+   {"mm": [170.3, 325.8, 209.0, 330.8], "text": "noted below"},
+   {"mm": [53.1, 312.4, 68.7, 317.4], "text": "PART"},
+   {"mm": [85.1, 312.4, 122.4, 317.4], "text": "DESCIPTION"},
+   {"mm": [193.0, 312.4, 204.9, 317.4], "text": "MFG"},
+   {"mm": [240.9, 312.4, 300.5, 317.4], "text": "MFG PART NUMBER"},
+   {"mm": [128.9, 299.5, 150.5, 304.5], "text": "4.7 pF"},
+   {"mm": [193.0, 299.5, 215.9, 304.5], "text": "Ph il ips"},
+   {"mm": [52.9, 299.2, 59.8, 304.3], "text": "C6"},
+   {"mm": [85.1, 299.2, 116.2, 304.3], "text": "Capac tor"},
+   {"mm": [240.7, 299.2, 286.7, 304.3], "text": "2222-638-09478"},
+   {"mm": [57.4, 292.8, 62.4, 297.8], "text": "ll"},
+   {"mm": [97.2, 294.9, 99.7, 297.6], "text": "II"},
+   {"mm": [137.3, 295.1, 139.9, 298.0], "text": "II"},
+   {"mm": [197.1, 294.9, 199.7, 297.6], "text": "II"},
+   {"mm": [52.9, 279.4, 62.6, 284.4], "text": "R15"},
+   {"mm": [85.1, 279.4, 110.5, 284.4], "text": "Res tor"},
+   {"mm": [121.6, 279.4, 129.5, 284.4], "text": "4W"},
+   {"mm": [144.9, 279.4, 154.4, 284.4], "text": "2K4"},
+   {"mm": [52.9, 141.2, 286.7, 146.2], "text": "WBS recommends the se of rep lacement parts me de by the specif ied"},
+   {"mm": [52.9, 134.5, 257.4, 139.5], "text": "manufacturers for continued opti mum equ ipment performance"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"},
+   {"mm": [161.3, 16.0, 190.9, 21.0], "text": "8-109-2-5"}
+  ]
+ },
+ "title_block": {
+  "mm": [30.8, 132.6, 138.5, 422.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD.",
+   "8-109G",
+   "All parts as per 8-109 xcept",
+   "PART",
+   "DESCIPTION",
+   "C6",
+   "Capac tor",
+   "ll",
+   "II",
+   "II",
+   "R15",
+   "Res tor",
+   "4W"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–318 mm across, 0–422 mm up",
+  "- **Outlines:** line 145 rings, 1,940 straight (4,803 mm) / 273 curved (443 mm); text 326 rings, 2,434 straight (2,763 mm) / 689 curved (1,105 mm); tb 27 rings, 188 straight (234 mm) / 55 curved (92.4 mm)",
+  "- **Words (OCR):** 68 in 30 lines: WARD-BECK SYSTEMS LTD. · PARTS LIST · 8-109 AMPLIFIER SERIES · 8-109G · All parts as per 8-109 xcept · noted below · PART · DESCIPTION · MFG · MFG PART NUMBER · 4.7 pF · Ph il ips",
+  "- **Title block:** (31, 133)–(138, 422) mm: WARD-BECK SYSTEMS LTD. · 8-109G · All parts as per 8-109 xcept · PART · DESCIPTION · C6 · Capac tor · ll · II · II · R15 · Res tor · 4W"
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/SUMMING/M497D/MANUALS/1978 - M497D - Dual Master Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1c8690f95b8feb42-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "29"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 307.0, 410.2],
+ "outlines": {
+  "line": {"rings": 31, "straight": {"n": 578, "mm": 3258.0}, "curved": {"n": 34, "mm": 55.0}},
+  "text": {"rings": 214, "straight": {"n": 1908, "mm": 2679.9}, "curved": {"n": 482, "mm": 771.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [121.8, 400.3, 285.9, 409.9], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [54.2, 392.1, 288.2, 407.2], "text": "WBS 841 PrOGRESS AVENUE, SCARBOAOUGH; ONTAAIO M1H 2x4"},
+   {"mm": [121.1, 389.9, 172.3, 395.7], "text": "FAX: 416/438-3865"},
+   {"mm": [214.8, 389.1, 288.7, 395.5], "text": "TELEPHONE: 418/438-6550"},
+   {"mm": [157.0, 242.9, 185.5, 251.5], "text": "M497D"},
+   {"mm": [119.0, 226.5, 223.0, 236.1], "text": "DUAL MASTER MODULE"},
+   {"mm": [218.5, 68.0, 279.4, 75.7], "text": "MANUAL ISSUE#"},
+   {"mm": [218.3, 55.9, 259.1, 63.6], "text": "April 29, 199 ["},
+   {"mm": [44.7, 13.0, 94.3, 19.4], "text": "MWOOOOI /M49TD WP"}
+  ]
+ },
+ "title_block": {
+  "mm": [47.5, 59.4, 286.2, 418.6],
+  "from": "title-block words (training set)",
+  "text": [
+   "WARD-BECK SYSTEMS LTD",
+   "WBS 841 PrOGRESS AVENUE, SCARBOAOUGH; ONTAAIO M1H 2x4",
+   "FAX: 416/438-3865",
+   "TELEPHONE: 418/438-6550",
+   "M497D",
+   "DUAL MASTER MODULE",
+   "MANUAL ISSUE#",
+   "April 29, 199 ["
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–307 mm across, 0–410 mm up",
+  "- **Outlines:** line 31 rings, 578 straight (3,258 mm) / 34 curved (55.0 mm); text 214 rings, 1,908 straight (2,680 mm) / 482 curved (772 mm)",
+  "- **Words (OCR):** 12 in 9 lines: WARD-BECK SYSTEMS LTD · WBS 841 PrOGRESS AVENUE, SCARBOAOUGH; ONTAAIO M1H 2x4 · FAX: 416/438-3865 · TELEPHONE: 418/438-6550 · M497D · DUAL MASTER MODULE · MANUAL ISSUE# · April 29, 199 [ · MWOOOOI /M49TD WP",
+  "- **Title block:** (48, 59)–(286, 419) mm: WARD-BECK SYSTEMS LTD · WBS 841 PrOGRESS AVENUE, SCARBOAOUGH; ONTAAIO M1H 2x4 · FAX: 416/438-3865 · TELEPHONE: 418/438-6550 · M497D · DUAL MASTER MODULE · MANUAL ISSUE# · April 29, 199 ["
+ ]
+}
