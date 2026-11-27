@@ -1,0 +1,19 @@
+{
+ "module": "M497D",
+ "source": {
+  "file": "MANUALS/1978 - M497D - P005 - 2-1.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.93,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M49TD accommodates two separate signal channels. It is designed to receive the mixed feeds from the left and right mixer buses of console_ The two signals arc independently processed and amplified to standard line levels The outputs of the M497D supply the main program outputs of the console system Both channels operate similar manner. The following description refers specifically to the LEFT channel. 66 ohm resistive dividing network; inserted between the 8-109E and the two module outputs at pins 12/N and 13/P_ Each of the two outputs has maximum drive capability +24 dBm into bridging load_ separate MONITOR output is providdesigned feed the M495 Stereo Monitor Module well to drive standard VU meter. Right_Chanael ad Mono_Output The signal originating from the external mixing network enters thc module pins and is applied to the summing current nodes of ZI and 22 The RIGHT channel of the M497D operates manner similar the left channel as described above. For the MONO output; both channels are combined and appear at pins [/M Thc signal level of this output 15 such that, when connected The summing input of second M497D it will produce output of dBm_ with the left right channel of the first unit operating at +8 dBm through Z3 with their associated components, provide an actively balanced input as well balanced output: Thc output operates at nominal level of 0 dBm and appears at pins 6/F_ Insert balanced INSERT point is provided between pins 6/F and 8 /J_ permitting the insertion of external equalizer filter compressor_ either using M499 Insert Switcher or by direct wiriPower_Supply_Decoupling An active power 'congcwia g o4PQy dccouplio8 network through provides isolation between the module and the +/-25 volt supply rails. Transistors Q3 and 06 monitor [he supply current: In the event of excessive power supply demands such as from component failure Or amplifier overdrive, the current flowing through Q and Q4 will bc limited Lerel_Adiustment From thc INSERT point_ the signal returned to the module at pins 8/J and fed the 8-109E output amplifier via attenuator network: R42 lcvcl trim potentiometer permitting adjustment the module output Icvel. small hole thc module front panel allows access to the trim control. Outline The 8-109E output amplifier operates wIth gain of 29 dB, It recovers thc loss of thc input network and provides additional gain product nominal line level of +8 dBm the output of the module Input"
+   ]
+  }
+ ]
+}

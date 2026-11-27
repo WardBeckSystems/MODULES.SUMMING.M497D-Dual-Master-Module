@@ -1,0 +1,278 @@
+{
+ "module": "M497D",
+ "title": "M497D DUAL MASTER MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M497D - P004 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "dB nominal +18 dB +/-0.5 dB maximum_ Master level control is provided",
+   "quantities": [
+    {
+     "value": 18,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.2 dB from 20 Hz to 20 kHz. (tailored frequency response).",
+   "quantities": [
+    {
+     "value": 0.2,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "75 dB below +8 dBm nominal output level (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": 75,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.05% THD from 30 Hz to 20 kHz at +27 dBm output or less: Less than 0.019 at kHz at +27 dBm output:",
+   "quantities": [
+    {
+     "value": 0.05,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 27,
+     "unit": "dBm"
+    },
+    {
+     "value": 27,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Summing: External: 30,000 ohms, balanced 600 ohms maximum; balanced",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Summing: External: Less than ohms. 30,000 ohms:",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "External: dBm nominal, +16 dBm maximum",
+   "quantities": [
+    {
+     "value": 16,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Program: Monitor; Mono: 60 ohms_ balanced. 60 ohms_ balanced, 36,000 ohms balanced.",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "ohms"
+    },
+    {
+     "value": 60,
+     "unit": "ohms"
+    },
+    {
+     "value": 36000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "Program: Monitor: Mono: 600 ohms balanced (minimum) Bridging, balanced (SK ohms minimum) Summing, less than ohms, balanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "Program: Monitor; Mono: +8 dBm nominal, +28 dBm maximum (into onc 600 ohm load). +8 dBm nominal, +28 dBm maximum: +8 dBm nominal when summed into second M497D",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "dB between Left and Right channels (50 Hz to 15 kHz).",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated phase. numbers are"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-25 volts dc, 50 mA nominal, 200 mA maximum",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    },
+    {
+     "value": 50,
+     "unit": "mA"
+    },
+    {
+     "value": 200,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "60 degrees Celsius",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "16\" wide x 7.0\" high 6.5\" dcep (41 mm 178 mm x 165 mm)",
+   "quantities": [
+    {
+     "value": 16,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}

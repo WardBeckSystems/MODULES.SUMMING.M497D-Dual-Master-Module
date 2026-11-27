@@ -13,6 +13,42 @@ Ward-Beck Systems M497D, 1978|11. Wiki page: [M497D on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1978 - M497D - P004 - 1-1.jpg](MANUALS/1978%20-%20M497D%20-%20P004%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | dB nominal +18 dB +/-0.5 dB maximum_ Master level control is provided |
+| **Frequency response** | +/-0.2 dB from 20 Hz to 20 kHz. (tailored frequency response). |
+| **Noise** | 75 dB below +8 dBm nominal output level (20 Hz to 20 kHz). |
+| **Harmonic distortion** | Less than 0.05% THD from 30 Hz to 20 kHz at +27 dBm output or less: Less than 0.019 at kHz at +27 dBm output: |
+| **Source impedances** | Summing: External: 30,000 ohms, balanced 600 ohms maximum; balanced |
+| **Input impedances** | Summing: External: Less than ohms. 30,000 ohms: |
+| **Input level** | External: dBm nominal, +16 dBm maximum |
+| **Output impedances** | Program: Monitor; Mono: 60 ohms_ balanced. 60 ohms_ balanced, 36,000 ohms balanced. |
+| **Load impedances** | Program: Monitor: Mono: 600 ohms balanced (minimum) Bridging, balanced (SK ohms minimum) Summing, less than ohms, balanced. |
+| **Output level** | Program: Monitor; Mono: +8 dBm nominal, +28 dBm maximum (into onc 600 ohm load). +8 dBm nominal, +28 dBm maximum: +8 dBm nominal when summed into second M497D |
+| **Channel separation** | dB between Left and Right channels (50 Hz to 15 kHz). |
+| **Phasing** | Input and output terminals designated phase. numbers are |
+| **Power requirements** | +/-25 volts dc, 50 mA nominal, 200 mA maximum |
+| **Ambient temperature** | 60 degrees Celsius |
+| **Dimensions** | 16&quot; wide x 7.0&quot; high 6.5&quot; dcep (41 mm 178 mm x 165 mm) |
+
+## Circuit description
+
+From [1978 - M497D - P005 - 2-1.jpg](MANUALS/1978%20-%20M497D%20-%20P005%20-%202-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M49TD accommodates two separate signal channels. It is designed to receive the mixed feeds from the left and right mixer buses of console_ The two signals arc independently processed and amplified to standard line levels The outputs of the M497D supply the main program outputs of the console system Both channels operate similar manner. The following description refers specifically to the LEFT channel. 66 ohm resistive dividing network; inserted between the 8-109E and the two module outputs at pins 12/N and 13/P_ Each of the two outputs has maximum drive capability +24 dBm into bridging load_ separate MONITOR output is providdesigned feed the M495 Stereo Monitor Module well to drive standard VU meter. Right_Chanael ad Mono_Output The signal originating from the external mixing network enters thc module pins and is applied to the summing current nodes of ZI and 22 The RIGHT channel of the M497D operates manner similar the left channel as described above. For the MONO output; both channels are combined and appear at pins [/M Thc signal level of this output 15 such that, when connected The summing input of second M497D it will produce output of dBm_ with the left right channel of the first unit operating at +8 dBm through Z3 with their associated components, provide an actively balanced input as well balanced output: Thc output operates at nominal level of 0 dBm and appears at pins 6/F_ Insert balanced INSERT point is provided between pins 6/F and 8 /J_ permitting the insertion of external equalizer filter compressor_ either using M499 Insert Switcher or by direct wiriPower_Supply_Decoupling An active power 'congcwia g o4PQy dccouplio8 network through provides isolation between the module and the +/-25 volt supply rails. Transistors Q3 and 06 monitor [he supply current: In the event of excessive power supply demands such as from component failure Or amplifier overdrive, the current flowing through Q and Q4 will bc limited Lerel_Adiustment From thc INSERT point_ the signal returned to the module at pins 8/J and fed the 8-109E output amplifier via attenuator network: R42 lcvcl trim potentiometer permitting adjustment the module output Icvel. small hole thc module front panel allows access to the trim control. Outline The 8-109E output amplifier operates wIth gain of 29 dB, It recovers thc loss of thc input network and provides additional gain product nominal line level of +8 dBm the output of the module Input
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
