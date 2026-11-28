@@ -1,5 +1,5 @@
 # 1978 - M497D - 497-04-007 - SPACE FOR CHANNEL IDENTIFICATION DESIGNATION.jpg
-Wiki page: [M497D](../../../../PAGES/M497D.md)
+Wiki page: [M497D](../)
 
 
 - **Year:** 1978 (module estimate (family))

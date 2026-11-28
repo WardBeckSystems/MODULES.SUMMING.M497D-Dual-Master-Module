@@ -1,5 +1,5 @@
 # 1978 - M497D - 497-06-005 - DUAL MASTER MODULE.jpg
-Wiki page: [M497D](../../../../PAGES/M497D.md)
+Wiki page: [M497D](../)
 
 
 - **Year:** 1978 (module estimate (family))

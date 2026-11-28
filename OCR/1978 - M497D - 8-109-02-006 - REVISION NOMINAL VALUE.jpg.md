@@ -1,5 +1,5 @@
 # 1978 - M497D - 8-109-02-006 - REVISION NOMINAL VALUE.jpg
-Wiki page: [M497D](../../../../PAGES/M497D.md)
+Wiki page: [M497D](../)
 
 
 - **Year:** 1978 (module estimate (family))

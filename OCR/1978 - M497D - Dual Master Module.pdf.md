@@ -1,5 +1,5 @@
 # 1978 - M497D - Dual Master Module.pdf
-Wiki page: [M497D](../../../../PAGES/M497D.md)
+Wiki page: [M497D](../)
 
 
 - **Year:** 1978 (module estimate (family))

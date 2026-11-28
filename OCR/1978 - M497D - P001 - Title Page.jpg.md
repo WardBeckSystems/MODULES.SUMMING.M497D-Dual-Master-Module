@@ -1,5 +1,5 @@
 # 1978 - M497D - P001 - Title Page.jpg
-Wiki page: [M497D](../../../../PAGES/M497D.md)
+Wiki page: [M497D](../)
 
 
 - **Year:** 1978 (module estimate (family))
