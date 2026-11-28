@@ -4,13 +4,11 @@ Ward-Beck Systems M497D, 1978|11. Wiki page: [M497D on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 195 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 194 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -80,8 +78,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
-Not on Google Drive yet: `M497D - RTO-144 Connections.pdf`
-
 ## RTO-144 pinout
 
 21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
@@ -139,7 +135,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1978 - M497D - Dual Master Module p11.kicad_sch](KICAD/1978%20-%20M497D%20-%20Dual%20Master%20Module%20p11.kicad_sch)
 - [1978 - M497D - Dual Master Module p27.kicad_sch](KICAD/1978%20-%20M497D%20-%20Dual%20Master%20Module%20p27.kicad_sch)
 - [M497D.kicad_sym](KICAD/M497D.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
